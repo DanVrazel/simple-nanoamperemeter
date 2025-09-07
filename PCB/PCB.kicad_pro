@@ -617,6 +617,14 @@
     [
       "e3b860ec-8731-4ad1-a495-a41610e6a278",
       "range_selector"
+    ],
+    [
+      "51961a49-ed5e-4144-864b-e0fff9490e6d",
+      "overrange_detecor"
+    ],
+    [
+      "a8173f43-9291-44ee-92e5-00a0bb4b8099",
+      "power_supply"
     ]
   ],
   "text_variables": {}
