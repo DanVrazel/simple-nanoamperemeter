@@ -3473,6 +3473,16 @@
 		)
 		(uuid "fe1ad9fa-8800-4094-a4ad-5fc7609036c2")
 	)
+	(label "OR_OUT"
+		(at 337.82 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4dcb8e53-b8ef-4e48-b22f-e7e19faa0169")
+	)
 	(label "+OR"
 		(at 222.25 121.92 0)
 		(effects
@@ -3667,7 +3677,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 350.52 123.19 0)
 			(effects
 				(font
