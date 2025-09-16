@@ -6696,7 +6696,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://img.gme.cz/files/eshop_data/eshop_data/5/817-111/dsh.817-111.1.pdf"
 			(at 346.71 105.41 0)
 			(effects
 				(font
