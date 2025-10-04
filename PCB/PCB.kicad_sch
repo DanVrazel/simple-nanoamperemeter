@@ -6687,7 +6687,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "w-connector:GOLDEN LOCH 900D-6452R2"
+		(property "Footprint" "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal"
 			(at 346.71 105.41 0)
 			(effects
 				(font
